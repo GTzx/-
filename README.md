@@ -1,1 +1,1 @@
-# I am a junior from Guangdong University of Technology.
+ I am a junior from Guangdong University of Technology.
